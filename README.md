@@ -1,4 +1,4 @@
-#  Hey There, I'm Andressa Rodrigues
+#  Hey There, I'm Andressa Rodrigues  🖐️
 
 <div>
   <a href="https://github.com/AndressaARodrigues">
